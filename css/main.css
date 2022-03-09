@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: rgb(214, 175, 102);
+  }
+  h1 {
+    text-align: center;
+    color: rgb(200, 231, 169);
+    font-size: 65px;
+  }
+  .container {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 65%;
+  }
+  .ds {
+    border-radius: 55%;
+    width: 150px;
+    height: 30px;
+    align-items: center;
+    
